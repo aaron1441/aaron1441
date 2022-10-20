@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aaron. I am currently in second year studying Software Development in GMIT 
+- 👋 Hi, I’m Aaron. I am currently in third year studying Software Development in ATU Galway
 - 👀 I’m interested in coding, music and farming
-- 🌱 I’m currently learning Java, procedural programming and internet and mobile application development
+- 🌱 I’m currently learning Java, javascript, typescript, object oriented programming and operating systems.
 - 📫 How to reach me. Email - aarondee2014@gmail.com Discord - Aaron_Dee#8279
 
 <!---
